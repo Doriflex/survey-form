@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: helvetica;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+form {
+    background-color: #ECE9E8;
+    padding: 40px;
+    border-radius: 7px;
+}
+
+input {
+    width: 100%;
+}
